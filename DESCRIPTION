@@ -1,0 +1,11 @@
+Package: SingleCln
+Type: Package
+Title: Fit spatial-temporal regression model to quantify interactions on growth between multiple cell populations 
+Version: 1.0
+Date: 2019-04-02
+Author: PuXue Qiao
+Maintainer: PuXue Qiao <pqiao@student.unimelb.edu.au>
+Description: 
+License: MIT 
+Imports: Rcpp (>= 1.0.1)
+LinkingTo: Rcpp, RcppArmadillo

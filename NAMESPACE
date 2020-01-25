@@ -1,0 +1,3 @@
+useDynLib(SingleCln, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+export(indptSTM3, indptSTM3_select)
